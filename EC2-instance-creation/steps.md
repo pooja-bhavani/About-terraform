@@ -1,4 +1,4 @@
-![image](https://github.com/pooja-bhavani/About-terraform/assets/147735975/5f3e6758-1ada-4f74-9879-d9aaa1710077)Create a directory for your Terraform project and create a Terraform configuration file (usually named ``main.tf``) in that directory.
+Create a directory for your Terraform project and create a Terraform configuration file (usually named ``main.tf``) in that directory.
 In this file, you define the AWS provider and resources you want to create.
 
 ![image](https://github.com/pooja-bhavani/About-terraform/assets/147735975/26225f67-5689-4576-bd75-0b99ed38d16f)
