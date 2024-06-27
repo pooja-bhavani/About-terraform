@@ -8,7 +8,8 @@ In this file, you define the AWS provider and resources you want to create.
 ![image](https://github.com/pooja-bhavani/About-terraform/assets/147735975/36838aa6-2de9-4c44-bf23-4c304008480e)
 ![image](https://github.com/pooja-bhavani/About-terraform/assets/147735975/d4cd7801-305b-41a2-bb88-034838ee182b)
 ![image](https://github.com/pooja-bhavani/About-terraform/assets/147735975/7998fb9a-121e-4e70-a375-f592208ad766)
-![Uploading image.png…]()
+![image](https://github.com/pooja-bhavani/About-terraform/assets/147735975/fd088000-4940-4311-9f3c-d6353955ab39)
+
 
 
 
