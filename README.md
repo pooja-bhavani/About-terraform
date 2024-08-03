@@ -25,5 +25,5 @@ sudo yum -y install terraform
 # Terraform installation for macOS
 ```
 brew tap hashicorp/tap
-brew install hashicorp/tap/terrafor
+brew install hashicorp/tap/terraform
 ```
